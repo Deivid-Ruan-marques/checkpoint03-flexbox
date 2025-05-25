@@ -14,5 +14,5 @@ Projeto desenvolvido como parte do Checkpoint 03 da disciplina de front-end. A p
 
 ## 🔗 Links
 
-- **Repositório no GitHub:** [inserir link aqui]
-- **Site publicado no GitHub Pages:** [inserir link aqui]
+- **Repositório no GitHub:** [https://github.com/Deivid-Ruan-marques/checkpoint03-flexbox.git]
+- **Site publicado no GitHub Pages:** [https://deivid-ruan-marques.github.io/checkpoint03-flexbox/]
